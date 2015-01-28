@@ -1,0 +1,2 @@
+# ilkdeneme
+örnek bir çalışma
